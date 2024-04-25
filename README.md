@@ -1,3 +1,9 @@
+Luna, Jov Mathew M.
+BSCS - 2A
+
+Activities and project 
+---------------------------
+---------------------------
 Introduction
 
 Google Colab, short for Google Colaboratory, is a cloud-based platform provided by Google for writing and executing Python code. It offers a Jupyter notebook environment that allows users to run code in a collaborative and interactive manner, directly from their web browser. Google Colab provides access to free GPU and TPU (Tensor Processing Unit) resources, making it particularly useful for machine learning and data analysis tasks that require significant computational power.
