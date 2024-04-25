@@ -14,6 +14,7 @@ Table of Contents:
 8. Utilizing GPU and TPU Resources
 9. Saving and Sharing Notebooks
 10. Advanced Features and Tips
+11. https://jovluna.github.io/CSEL-302/
 
 Importing Libraries:
 
